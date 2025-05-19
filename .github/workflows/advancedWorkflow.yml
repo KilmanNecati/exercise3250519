@@ -1,7 +1,7 @@
 name: first workflow
 
 env:
-  WORKFLOW_VAR: "This is an environment variable
+  WORKFLOW_VAR: "This is an environment variable"
 
 on:
   workflow_dispatch:
